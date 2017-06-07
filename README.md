@@ -1,2 +1,3 @@
 # hello-world
-This repository is a test. I am new to GitHub.
+I am totally new here. Consider it trial and error.
+I love chocolate noodles and chilly smoothies.
